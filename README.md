@@ -25,7 +25,7 @@ This project uses a combination of a neural network and fuzzy logic to predict t
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/traffic-congestion-predictor.git
+   git clone https://github.com/apih99/traffic-congestion-predictor.git
    ```
 
 2. **Create and activate a virtual environment:** (Recommended)
@@ -45,14 +45,14 @@ This project uses a combination of a neural network and fuzzy logic to predict t
 4. **Run the application:**
 
    ```bash
-   python app.py  # Or the name of your main Python file
+   python AI_Traffic.py 
    ```
 
 This will launch the Gradio interface. You can then interact with the sliders to adjust the input features and see the predicted congestion level. 🎉
 
 ## Project Structure
 
-* `AI_Traffic_Predictor.py` (or your main file name): Contains the Python code for data generation, preprocessing, fuzzy logic, neural network training, and the Gradio interface.
+* `AI_Traffic.py` (or your main file name): Contains the Python code for data generation, preprocessing, fuzzy logic, neural network training, and the Gradio interface.
 * `requirements.txt`: Lists the required Python packages.
 * `README.md`: This file.
 
