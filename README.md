@@ -2,6 +2,8 @@
 
 This project uses a combination of a neural network and fuzzy logic to predict traffic congestion levels based on various input features.  It provides a user-friendly interface built with Gradio, allowing users to interactively explore the predictions. ✨
 
+![image of home interface](Capture.PNG)
+
 ## Features
 
 * **Neuro-Fuzzy System:** Combines the strengths of neural networks and fuzzy logic for a potentially more robust prediction. 🧠 + 🤔 = 💪
